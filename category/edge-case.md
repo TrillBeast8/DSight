@@ -1,16 +1,15 @@
 ---
 layout: category
-title: Edge Case
+title: Timeline
 ---
 
-Sample category page. You need to create a page for each category.
-The category is inferred from the title of the page, but you can also
-specify it with the `category` attribute in the front matter.
+You can find the year I was born and all that follows
+
 
 ```md
 ---
 layout: category
-title: My Category
+title: 1
 ---
 ```
 
@@ -19,7 +18,7 @@ Or ...
 ```md
 ---
 layout: category
-title: Fancy Title
+title: 2
 category: My Category
 ---
 ```
