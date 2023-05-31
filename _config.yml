@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
+title:            DSight
 tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'Durand Honest .'
 url:              https://fongandrew.github.io
 baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
@@ -15,9 +15,8 @@ baseurl:          '/hydeout'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
-
+  name:           
+  url:           
 paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
