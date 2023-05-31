@@ -6,8 +6,8 @@ highlighter:      rouge
 title:            DSight
 tagline:          'A Jekyll theme'
 description:      'Durand Honest .'
-url:              https://fongandrew.github.io
-baseurl:          '/hydeout'
+url:               https://trillbeast8.github.io/DSight/
+baseurl:          '/DSight'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
